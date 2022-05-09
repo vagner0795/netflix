@@ -2,7 +2,7 @@
 
 
 
-<img src="./imagens/netflix.png" width="250px" alt="logo-netflix">
+<img src="./imagens/netflix.png" width="600px" alt="logo-netflix">
 
 > Resultado do projeto Netflix Home page.
 

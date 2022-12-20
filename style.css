@@ -28,6 +28,10 @@
     cursor: pointer;
 }
 
+#botao-entrar:hover{
+    opacity: 0.6;
+}
+
 
 #cabecalho{
 padding: 28px 56px;
